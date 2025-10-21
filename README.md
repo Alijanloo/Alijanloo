@@ -33,7 +33,7 @@
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alijanloo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijanloo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijanloo&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
 
 ---
 
