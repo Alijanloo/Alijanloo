@@ -2,7 +2,7 @@
 
 🎓 Computer Science graduate from **Ferdowsi University of Mashhad**  
 🤖 Passionate about **NLP, and machine learning**  
-💡 Building intelligent systems and open-source tools that bridge theory and real-world applications.
+💡 Building intelligent systems and tools that bridge theory and real-world applications.
 
 ---
 
