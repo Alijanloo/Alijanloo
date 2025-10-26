@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ali Janloo
 
-🎓 Computer Science graduate from **Ferdowsi University of Mashhad**  
-🤖 Passionate about **NLP, and machine learning**  
-💡 Building intelligent systems and tools that bridge theory and real-world applications.
+* Computer Science graduate from **Ferdowsi University of Mashhad**  
+* Passionate about **NLP, and machine learning**  
+* Converting charming ideas into real-world applications.
 
 ---
 
