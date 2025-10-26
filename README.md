@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 - ⚙️ **ML Engineering** — Developing agentic chatbots and AI solutions at [Parstech](https://parstechai.com/).
 - 📚 **Research** — Keeping up with academic research in AI and machine learning.
 - 🚀 **AI Development & Data Science** — Building open-source tools in Python for automation and data analysis on spare times.
